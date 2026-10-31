@@ -48,8 +48,10 @@
 ### 🦷 DentalCare
 Сайт стоматологической клиники с информацией об услугах и многоязычным интерфейсом.
 
----
-
+### 🏎️ -f1
+игра.
+### Х , 0 
+игра иксы и нолик 
 ## 📊 GitHub статистика
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hamitovaapal-collab&show_icons=true&theme=tokyonight&hide_border=true)
